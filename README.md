@@ -1,7 +1,7 @@
 # 職務経歴書 / 技術プロフィール
 
 - **屋号 / プロジェクト**：algernon（アルジャーノン）
-- **拠点**：関西在住（フルリモート対応）
+- **拠点**：関西在住（基本：フルリモート/相談可：ハイブリッド対応）
 - **主な役割**：バックエンドエンジニア / システムアーキテクト / フルスタックエンジニア
 - **連絡先**：[algernon.jobcontact@gmail.com](mailto:algernon.jobcontact@gmail.com)
 - **X (Twitter)**：[@algernon_1977](https://twitter.com/algernon_1977)
