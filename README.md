@@ -3,7 +3,7 @@
 - **屋号 / プロジェクト**：algernon-lab（アルジャーノン・ラボ）
 - **拠点**：関西在住（基本：フルリモート/相談可：ハイブリッド対応）
 - **主な役割**：バックエンドエンジニア / システムアーキテクト / フルスタックエンジニア
-- **連絡先**：[algernon.jobcontact@gmail.com](mailto:algernon.jobcontact@gmail.com)
+- **連絡先**：[contact@algernon-lab.com](mailto:contact@algernon-lab.com)
 - **X (Twitter)**：[@algernon_1977](https://twitter.com/algernon_1977)
 
 ---
